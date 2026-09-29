@@ -1,13 +1,13 @@
 import { Service, TechniqueInfo, GalleryItem, Review, StudioConfig } from '../types';
 
 export const DEFAULT_STUDIO_CONFIG: StudioConfig = {
-  name: "Luxe Nail Artistry",
+  name: "Anis Nails",
   tagline: "El arte de embellecer tus manos con elegancia, precisión y estilo único.",
-  phoneWhatsApp: "573001234567", // Default studio phone (configurable in Admin panel)
-  email: "citas@luxenails.com",
+  phoneWhatsApp: "573041056827", // Default studio phone (configurable in Admin panel)
+  email: "citas@anisnails.com",
   instagram: "luxenails_studio",
-  address: "Calle 10 # 43D - 28, El Poblado",
-  city: "Medellín, Colombia",
+  address: "Parque Residencial Oviedo",
+  city: "Armenia, Colombia",
   workingDays: "Lunes a Sábado",
   workingHours: "9:00 AM - 7:00 PM",
   currencySymbol: "$"

@@ -1,4 +1,4 @@
-// File: C:\Users\Santiago\.gemini\antigravity\scratch\nail-studio-booking\src\app\page.tsx
+// File: C:\Users\AUXI. RADICACION\Desktop\Nueva carpeta (2)\ANISNAILS\src\app\page.tsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -116,7 +116,7 @@ export const ReviewsSection: React.FC = () => {
 
               <div className="pt-2 flex items-center gap-1 text-[11px] text-rose-500 font-medium">
                 <Sparkles className="w-3.5 h-3.5" />
-                <span>Experiencia 5 estrellas en Luxe Nails</span>
+                <span>Experiencia 5 estrellas en Anis Nails</span>
               </div>
             </div>
           ))}

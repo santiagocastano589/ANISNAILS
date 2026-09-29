@@ -1,4 +1,4 @@
-// File: C:\Users\Santiago\.gemini\antigravity\scratch\nail-studio-booking\src\app\api\notify\route.ts
+// File: C:\Users\AUXI. RADICACION\Desktop\Nueva carpeta (2)\ANISNAILS\src\app\api\notify\route.ts
 import * as entry from '../../../../../src/app/api/notify/route.js'
 import type { NextRequest } from 'next/server.js'
 

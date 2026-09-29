@@ -39,7 +39,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </div>
             <div>
               <span className="font-serif text-xl sm:text-2xl font-bold tracking-tight text-stone-900 group-hover:text-rose-600 transition-colors">
-                {config.name}
+                Anis Nails
               </span>
               <p className="text-[10px] tracking-widest uppercase text-stone-500 font-medium">
                 Nail Art & Spa Studio

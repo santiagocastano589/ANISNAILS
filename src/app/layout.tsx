@@ -4,7 +4,7 @@ import { AuthProvider } from '../context/AuthContext';
 import { BookingProvider } from '../context/BookingContext';
 
 export const metadata: Metadata = {
-  title: 'Luxe Nail Studio | Agendamiento de Citas de Uñas, Catálogo & Diseños',
+  title: 'Anis Nails | Agendamiento de Citas de Uñas, Catálogo & Diseños',
   description: 'Agenda tu cita de uñas acrílicas, soft gel, manicura rusa y nail art exclusivo. Notificaciones instantáneas por WhatsApp y correo electrónico.',
   icons: {
     icon: '/favicon.ico',
